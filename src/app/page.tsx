@@ -3,7 +3,7 @@ import { LazyAppPdfViewer } from "./components/LazyAppPdfViewer";
 export default function Home() {
   return (
     <div className="w-[1028px] h-[700px] mx-auto">
-      <h1>RP Starter Toolkit: Nextjs + Typescript</h1>
+      <h1>React PDF Kit Starter Toolkit in Next.js with App Router and TypeScript</h1>
       <br />
       <h2>Default Toolbar</h2>
       <LazyAppPdfViewer />
